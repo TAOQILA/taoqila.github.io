@@ -22,6 +22,7 @@
 
 ---
 # 画展
-![Paints](https://user-images.githubusercontent.com/64893569/165915500-e97110a0-4aca-449f-97a7-8101328523d3.png)
+![Paints](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
+![Paints](https://user-images.githubusercontent.com/64893569/165918783-ecdea6ea-63fc-465b-acef-fa0107c7ded0.png)
 
 ###### [↑ 回到顶部](#0)

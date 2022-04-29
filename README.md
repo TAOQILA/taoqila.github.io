@@ -30,6 +30,7 @@
 
 ---
 # 画展
+此处只做粗略展示，具体请访问我的pixiv！
 ![Paintsp1](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
 ![Paintsp2](https://user-images.githubusercontent.com/64893569/165918783-ecdea6ea-63fc-465b-acef-fa0107c7ded0.png)
 

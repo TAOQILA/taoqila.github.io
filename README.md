@@ -1,12 +1,12 @@
 <p id="0"></p>
 
-![Headimage](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
-### 目录   | [个人简介](#1) | [画展](#2) |
+![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
+### 目录   | [个人简介](#1) | [下载](#3) | [画展](#2) |
 
 <p id="1"></p>
 
 ---
-## 个人简介
+# 个人简介
 - 昵称：淘气喵 TAOQILA
 - 生日：2006.7.7 (巨蟹座,15岁)
 - 生地：中国-黑龙江省-哈尔滨市
@@ -18,11 +18,19 @@
 
 ###### [↑ 回到顶部](#0)
 
+<p id="3"></p>
+
+---
+# 下载
+- [淘气的作废软件合集.zip](https://pan.baidu.com/s/1lY1DJRq2bdC7mOR83RDFYQ?pwd=2333) 百度网盘 提取码:2333
+
+###### [↑ 回到顶部](#0)
+
 <p id="2"></p>
 
 ---
 # 画展
-![Paints](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
-![Paints](https://user-images.githubusercontent.com/64893569/165918783-ecdea6ea-63fc-465b-acef-fa0107c7ded0.png)
+![Paintsp1](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
+![Paintsp2](https://user-images.githubusercontent.com/64893569/165918783-ecdea6ea-63fc-465b-acef-fa0107c7ded0.png)
 
 ###### [↑ 回到顶部](#0)

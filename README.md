@@ -32,7 +32,7 @@
 
 ---
 # 画展
-此处只做粗略展示，具体请访问我的[pixiv](https://www.pixiv.net/users/59091519)或[画集包](#2)！
+此处只做粗略展示，具体请访问我的[pixiv](#1)或[画集包](#3)！
 ![Paintsp1](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
 ![Paintsp2](https://user-images.githubusercontent.com/64893569/165918783-ecdea6ea-63fc-465b-acef-fa0107c7ded0.png)
 

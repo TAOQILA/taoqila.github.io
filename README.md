@@ -1,6 +1,6 @@
 <p id="0"></p>
 
-![Headimage](https://github.com/TAOQILA/taoqila.github.io/blob/images/all.png?raw=true)
+![Headimage](https://raw.githubusercontent.com/TAOQILA/taoqila.github.io/b295ef7fffde769d0fbf316d90bb3f65d03a8ae7/all.png)
 ### 目录   | [个人简介](#1) | [画展](#2) |
 
 <p id="1"></p>

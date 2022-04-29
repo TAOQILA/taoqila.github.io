@@ -7,7 +7,8 @@
 - QQ群：[921289019](https://jq.qq.com/?_wv=1027&k=0yhFgJKO)
 - 邮箱：taoqila@qq.com
 - 哔哩哔哩：[淘气喵w](https://space.bilibili.com/353586902)
-- pixiv：[淘气喵w](https://www.pixiv.net/users/59091519)  
+- pixiv：[淘气喵w](https://www.pixiv.net/users/59091519)
+
 ---
 # 画展
 ![Paints](https://user-images.githubusercontent.com/64893569/165914087-6efa7054-4803-408e-be79-334eed18eaa1.png)

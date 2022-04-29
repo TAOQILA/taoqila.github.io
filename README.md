@@ -11,4 +11,4 @@
 
 ---
 # 画展
-![Paints](https://user-images.githubusercontent.com/64893569/165914087-6efa7054-4803-408e-be79-334eed18eaa1.png)
+![Paints](https://user-images.githubusercontent.com/64893569/165915500-e97110a0-4aca-449f-97a7-8101328523d3.png)

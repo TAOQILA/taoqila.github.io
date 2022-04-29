@@ -1,7 +1,7 @@
 <p id="0"></p>
 
 ![Headimage](https://github.com/TAOQILA/taoqila.github.io/blob/images/all.png?raw=true)
-目录   | [个人简介](#1) | [画展](#2) |
+### 目录   | [个人简介](#1) | [画展](#2) |
 
 <p id="1"></p>
 

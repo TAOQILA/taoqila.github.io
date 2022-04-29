@@ -2,7 +2,8 @@
 - 名字：淘气喵 TAOQILA
 - 生日：2006.7.7(巨蟹座,15岁)
 - 爱好：画画 编程 谈恋爱 撸猫
-- QQ群: 921289019 | QQ邮箱: taoqila@qq.com
+- QQ群: 921289019
+- 邮箱: taoqila@qq.com
 
 ### Markdown
 

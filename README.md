@@ -2,9 +2,26 @@
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
 
-var titleArr = ['111','222','333']
-var index = Math.floor(Math.random() * titleArr.length);
-window.document.title = titleArr[index];
+<body>
+    <div id="div2"></div>
+        <button id="btn">点击事件</button>
+        <button id="btn1">随机出现其中一条的内容</button>
+        <script>
+        var a=['<input type="text" class="text" value="1">','<input type="text" class="text" value="2">','<input type="text" class="text" value="3">'];
+            $('#btn').click(function() {
+                for(let i=0;i<a.length;i++){
+                $('#div2').append(a[i]);}
+             o=document.getElementsByClassName('text');
+ 
+            });
+            $('#btn1').click(function(event) {
+                var k=Math.floor(Math.random()*3);
+                alert(o[k].value);
+ 
+            });
+        </script>
+        </body>
+
 
 ### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
 

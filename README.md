@@ -9,18 +9,22 @@ function selectFrom(startNumber, endNumber) {
     var choice = endNumber - startNumber + 1;
     return Math.floor(Math.random() * choice + startNumber)
 }
-var rand1 = selectFrom(0,9);
+var rand1 = selectFrom(0,12);
 quotes = new Array
-quotes[0] = '文本内容0'
-quotes[1] = '文本内容1'
-quotes[2] = '文本内容2'
-quotes[3] = '文本内容3'
-quotes[4] = '文本内容4'
-quotes[5] = '文本内容5'
-quotes[6] = '文本内容6'
-quotes[7] = '文本内容7'
-quotes[8] = '文本内容8'
-quotes[9] = '文本内容9'
+quotes[0] = '人的心灵不能简单地被物所填充，更不能全心沉湎于物的世界而无法自拔。—《乡愁的文化表达》邹广文'
+quotes[1] = '当生存问题完全解决，当爱情因个体的异化和融和而消失，当艺术因过分的精致和晦涩而最终死亡，对宇宙终极美的追求便成为文明存在的惟一寄托。—《朝闻道》刘慈欣
+'
+quotes[2] = '世上最不合理的事：上帝视角存在，但理性人不存在。—淘气喵'
+quotes[3] = '人类是唯一的可以以自杀来寻求湮灭的物种；人类是唯一的可以不为生存与繁衍来活着的物种。—？'
+quotes[4] = '天变不足畏，祖宗不足法，人言不足恤。—《宋史·王安石列传》王安石'
+quotes[5] = '“竟然有人不爱吃辣，那他们的生活好无趣哦！”—淘气喵'
+quotes[6] = '我执行，仅仅是因为我没有必要不执行。—淘气喵'
+quotes[7] = '“正常”与“多数”是一个意思，并且它们都是动态概念。—淘气喵'
+quotes[8] = '客观现实是不能被理解的，能理解的现实叫做“故事”，而“故事”必然反应了讲故事的人意志。—淘气喵'
+quotes[9] = '不是所有的事物都需要有意义。—淘气喵'
+quotes[10] = '人生并不公平，幸好还有爱在。—？'
+quotes[11] = '我脆弱的像是沾了水的纸，但是我不必惧怕什么。—？'
+quotes[12] = '从来如此，便对么？—《狂人日记》鲁迅'
 var quote = quotes[rand1]
 //-->
 </script>
@@ -28,8 +32,8 @@ var quote = quotes[rand1]
 <!-- Hide
 document.write(quote)
 // -->
-</script></body>
-
+</script></body>  
+  
 ### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
 
 <p id="1"></p>

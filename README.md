@@ -22,7 +22,11 @@
 
 ---
 # 动态
-### 01.30 创作了《Outlaw》
+此处只做粗略展示，具体请访问我的其他媒体！
+### 04.26 创作了《刚洗完澡澡呐喵w》画作
+![动态](https://user-images.githubusercontent.com/64893569/166089475-9c77e6c6-44d7-48a9-b7af-145cdb3e44e4.jpg)
+#### [查看详情 →](https://www.pixiv.net/artworks/97892255)
+### 01.30 创作了《Outlaw》音乐与MV
 <iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
 #### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
 

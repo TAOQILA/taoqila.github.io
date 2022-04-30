@@ -22,6 +22,7 @@ var quote = quotes[randomNum]
 </script>
 <script language="JavaScript">
 <!-- Hide
+document.write(randomNum)
 document.write(quote)
 // -->
 </script></body>

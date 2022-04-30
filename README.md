@@ -34,7 +34,7 @@
 # 动态
 ### 01.30 创作了《Outlaw》
 <iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-#### [查看详情](https://www.bilibili.com/video/BV1RR4y1T77G)
+#### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
 
 ###### [↑ 回到顶部](#0)
 

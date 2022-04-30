@@ -55,9 +55,9 @@
 此处只做粗略展示，具体请访问我的[乐集包](#3)！
 ## Circle Painter
 1. [Separation - 淘气喵](https://www.bilibili.com/audio/au2578490)
-2. [Falling Autumn  - 淘气喵](https://www.bilibili.com/audio/au2619576)
+2. [Falling Autumn  - 淘气喵](https://www.bilibili.com/audio/au2619576) [[MV]](https://www.bilibili.com/video/BV1qf4y1M7Wp)
 3. [Findoor - 淘气喵](https://www.bilibili.com/audio/au2619358)
-4. [Outlaw  - 淘气喵](https://www.bilibili.com/audio/au2797901)
+4. [Outlaw  - 淘气喵](https://www.bilibili.com/audio/au2797901) [[MV]](https://www.bilibili.com/video/BV1RR4y1T77G)
 
 ###### [↑ 回到顶部](#0)  
   

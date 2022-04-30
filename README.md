@@ -251,3 +251,26 @@
  
 	</body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+<meta charset="UTF-8">
+<title>淘气喵</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+<div id="welcome">
+	<h1>Funky Header</h1>
+</div>
+
+<script src='js/three.min.js'></script>
+<script src="js/index.js"></script>
+
+</body>
+</html>

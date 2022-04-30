@@ -266,7 +266,7 @@
 <body>
 
 <div id="welcome">
-	<h1>Funky Header</h1>
+	<h1>淘气喵</h1>
 </div>
 
 <script src='js/three.min.js'></script>

@@ -38,9 +38,9 @@
 ---
 # 下载
 下载时遇到问题请尝试联系淘气喵
-- [画集包.zip](https://pan.baidu.com/s/13aRkDUnDdJAOCbH-3JgFHA) | 百度网盘 | 提取码:arts | 2022/04/29
-- [乐集包.zip](https://pan.baidu.com/s/1zTL3AgmrDDA_Azz1gQK9Pw) | 百度网盘 | 提取码:obey | 2022/04/30
-- [作废软件合集.zip](https://pan.baidu.com/s/1onKTx1AxVC1-jyWU02PhlQ) | 百度网盘 | 提取码:2333 | 2022/04/29
+- [画集包](https://pan.baidu.com/s/13aRkDUnDdJAOCbH-3JgFHA) | 百度网盘 | 提取码:arts | 2022/04/29
+- [乐集包](https://pan.baidu.com/s/1zTL3AgmrDDA_Azz1gQK9Pw) | 百度网盘 | 提取码:obey | 2022/04/30
+- [作废软件包](https://pan.baidu.com/s/1AEEQuFUeOUYVqVuCnEdENA) | 百度网盘 | 提取码:bins | 2022/04/29
 
 ###### [↑ 回到顶部](#0)
 

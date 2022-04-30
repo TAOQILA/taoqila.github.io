@@ -1,7 +1,7 @@
 <p id="0"></p>
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
-### 目录 | [个人简介](#1) | [下载](#3) | [动态](#4) | [画展](#2) |
+### 目录 | [个人简介](#1) | [下载](#3) | [动态](#4) | [画展](#2) | 音乐展(#5) |
 
 <p id="1"></p>
 
@@ -45,6 +45,19 @@
 此处只做粗略展示，具体请访问我的[pixiv](#1)或[画集包](#3)！
 ![Paintsp1](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
 ![Paintsp2](https://user-images.githubusercontent.com/64893569/165918783-ecdea6ea-63fc-465b-acef-fa0107c7ded0.png)
+
+###### [↑ 回到顶部](#0)
+
+<p id="5"></p>
+
+---
+# 音乐展
+此处只做粗略展示，具体请访问我的[乐集包](#3)！
+## Circle Painter
+1. [Separation - 淘气喵](https://www.bilibili.com/audio/au2578490)
+2. [Falling Autumn  - 淘气喵](https://www.bilibili.com/audio/au2619576)
+3. [Findoor - 淘气喵](https://www.bilibili.com/audio/au2619358)
+4. [Outlaw  - 淘气喵](https://www.bilibili.com/audio/au2797901)
 
 ###### [↑ 回到顶部](#0)  
   

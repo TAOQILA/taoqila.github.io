@@ -5,8 +5,11 @@
 <body>
 <script language="JavaScript">
 <!-- Hide
-var randomNum = selectFrom(0,9)
-document.write(randomNum)
+function selectFrom(startNumber, endNumber) {
+    var choice = endNumber - startNumber + 1;
+    return Math.floor(Math.random() * choice + startNumber)
+}
+var rand1 = selectFrom(0,9);
 quotes = new Array
 quotes[0] = '文本内容0'
 quotes[1] = '文本内容1'
@@ -18,7 +21,7 @@ quotes[6] = '文本内容6'
 quotes[7] = '文本内容7'
 quotes[8] = '文本内容8'
 quotes[9] = '文本内容9'
-var quote = quotes[randomNum]
+var quote = quotes[rand1]
 //-->
 </script>
 <script language="JavaScript">

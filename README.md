@@ -1,7 +1,7 @@
 <p id="0"></p>
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
-### 目录 | [个人简介](#1) | [下载](#3) | [动态](#4) | [画展](#2) | [音乐会](#6) |
+### 目录 | [个人简介](#1) | [动态](#4) | [下载](#3) | [画展](#2) | [音乐会](#6) |
 
 <p id="1"></p>
 
@@ -18,6 +18,16 @@
 
 ###### [↑ 回到顶部](#0)
 
+<p id="4"></p>
+
+---
+# 动态
+### 01.30 创作了《Outlaw》
+<iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+#### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
+
+###### [↑ 回到顶部](#0)
+
 <p id="3"></p>
 
 ---
@@ -26,16 +36,6 @@
 - [画集包.zip](https://pan.baidu.com/s/13aRkDUnDdJAOCbH-3JgFHA) | 百度网盘 | 提取码:arts | 2022/04/29
 - [乐集包.zip](https://pan.baidu.com/s/1zTL3AgmrDDA_Azz1gQK9Pw) | 百度网盘 | 提取码:obey | 2022/04/30
 - [作废软件合集.zip](https://pan.baidu.com/s/1onKTx1AxVC1-jyWU02PhlQ) | 百度网盘 | 提取码:2333 | 2022/04/29
-
-###### [↑ 回到顶部](#0)
-
-<p id="4"></p>
-
----
-# 动态
-### 01.30 创作了《Outlaw》
-<iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-#### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
 
 ###### [↑ 回到顶部](#0)
 

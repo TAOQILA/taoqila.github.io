@@ -1,12 +1,13 @@
 <p id="0"></p>
 
+![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
+
 <body>
-刷新看看<script language="JavaScript">
+<script language="JavaScript">
 <!-- Hide
-var a = Math.random() + ""
-var rand1 = a.charAt(5)
+var randomNum = selectFrom(0,9);
 quotes = new Array
-<!-- 修改下面的文字为你需要的文字-->
+quotes[0] = '文本内容0'
 quotes[1] = '文本内容1'
 quotes[2] = '文本内容2'
 quotes[3] = '文本内容3'
@@ -16,8 +17,7 @@ quotes[6] = '文本内容6'
 quotes[7] = '文本内容7'
 quotes[8] = '文本内容8'
 quotes[9] = '文本内容9'
-quotes[0] = '文本内容10'
-var quote = quotes[rand1]
+var quote = quotes[randomNum]
 //-->
 </script>
 <script language="JavaScript">
@@ -25,8 +25,6 @@ var quote = quotes[rand1]
 document.write(quote)
 // -->
 </script></body>
-
-![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
 
 ### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
 

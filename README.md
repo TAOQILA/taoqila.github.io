@@ -5,7 +5,7 @@
 <body>
 <script language="JavaScript">
 <!-- Hide
-var randomNum = selectFrom(0,9);
+var randomNum = selectFrom(0,9)
 quotes = new Array
 quotes[0] = '文本内容0'
 quotes[1] = '文本内容1'

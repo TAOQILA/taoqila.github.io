@@ -6,6 +6,7 @@
 <script language="JavaScript">
 <!-- Hide
 var randomNum = selectFrom(0,9)
+document.write(randomNum)
 quotes = new Array
 quotes[0] = '文本内容0'
 quotes[1] = '文本内容1'
@@ -22,7 +23,6 @@ var quote = quotes[randomNum]
 </script>
 <script language="JavaScript">
 <!-- Hide
-document.write(randomNum)
 document.write(quote)
 // -->
 </script></body>

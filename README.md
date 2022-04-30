@@ -1,27 +1,32 @@
 <p id="0"></p>
 
-![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
-
 <body>
-    <div id="div2"></div>
-        <button id="btn">点击事件</button>
-        <button id="btn1">随机出现其中一条的内容</button>
-        <script>
-        var a=['<input type="text" class="text" value="1">','<input type="text" class="text" value="2">','<input type="text" class="text" value="3">'];
-            $('#btn').click(function() {
-                for(let i=0;i<a.length;i++){
-                $('#div2').append(a[i]);}
-             o=document.getElementsByClassName('text');
- 
-            });
-            $('#btn1').click(function(event) {
-                var k=Math.floor(Math.random()*3);
-                alert(o[k].value);
- 
-            });
-        </script>
-        </body>
+刷新看看<script language="JavaScript">
+<!-- Hide
+var a = Math.random() + ""
+var rand1 = a.charAt(5)
+quotes = new Array
+<!-- 修改下面的文字为你需要的文字-->
+quotes[1] = '文本内容1'
+quotes[2] = '文本内容2'
+quotes[3] = '文本内容3'
+quotes[4] = '文本内容4'
+quotes[5] = '文本内容5'
+quotes[6] = '文本内容6'
+quotes[7] = '文本内容7'
+quotes[8] = '文本内容8'
+quotes[9] = '文本内容9'
+quotes[0] = '文本内容10'
+var quote = quotes[rand1]
+//-->
+</script>
+<script language="JavaScript">
+<!-- Hide
+document.write(quote)
+// -->
+</script></body>
 
+![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
 
 ### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
 

@@ -71,7 +71,6 @@
 ##### 如发现问题欢迎向淘气喵反馈
 ##### 淘气喵©版权所有
 
-<!DOCTYPE html>
 <html lang="zh-cn">
 	<head>
 		<title>鼠标特效</title>

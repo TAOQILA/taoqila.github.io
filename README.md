@@ -1,6 +1,11 @@
 <p id="0"></p>
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
+
+var titleArr = ['111','222','333']
+var index = Math.floor(Math.random() * titleArr.length);
+window.document.title = titleArr[index];
+
 ### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
 
 <p id="1"></p>

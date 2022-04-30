@@ -1,7 +1,7 @@
 <p id="0"></p>
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
-### 目录 | [个人简介](#1) | [下载](#3) | [动态](#4) | [画展](#2) | [音乐展](#6) |
+### 目录 | [个人简介](#1) | [下载](#3) | [动态](#4) | [画展](#2) | [音乐会](#6) |
 
 <p id="1"></p>
 
@@ -24,6 +24,7 @@
 # 下载
 下载时遇到问题请尝试联系淘气喵
 - [画集包.zip](https://pan.baidu.com/s/13aRkDUnDdJAOCbH-3JgFHA) | 百度网盘 | 提取码:arts | 2022/04/29
+- [乐集包.zip](https://pan.baidu.com/s/1zTL3AgmrDDA_Azz1gQK9Pw) | 百度网盘 | 提取码:obey | 2022/04/30
 - [作废软件合集.zip](https://pan.baidu.com/s/1onKTx1AxVC1-jyWU02PhlQ) | 百度网盘 | 提取码:2333 | 2022/04/29
 
 ###### [↑ 回到顶部](#0)
@@ -51,7 +52,7 @@
 <p id="6"></p>
 
 ---
-# 音乐展
+# 音乐会
 此处只做粗略展示，具体请访问我的[乐集包](#3)！
 ## Circle Painter
 1. [Separation - 淘气喵](https://www.bilibili.com/audio/au2578490)

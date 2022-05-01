@@ -40,7 +40,7 @@ document.write(quote)
 // -->
 </script></body>
 </html>
-<a href="javascript:location.reload()">Random</a>
+<a href="javascript:location.reload()">Refresh</a>
 
 <p id="1"></p>
 
@@ -121,7 +121,7 @@ document.write(quote)
   
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.127 | 2022/05/01 14:36  
+###### 淘气喵 个人网站 v0.1.128 | 2022/05/01 14:38  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

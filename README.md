@@ -14,7 +14,7 @@ function selectFrom(startNumber, endNumber) {
     var choice = endNumber - startNumber + 1;
     return Math.floor(Math.random() * choice + startNumber)
 }
-var rand1 = selectFrom(0,13);
+var rand1 = selectFrom(0,14);
 quotes = new Array
 quotes[0] = '人的心灵不能简单地被物所填充，更不能全心沉湎于物的世界而无法自拔。—《乡愁的文化表达》邹广文'
 quotes[1] = '当生存问题完全解决，当爱情因个体的异化和融和而消失，当艺术因过分的精致和晦涩而最终死亡，对宇宙终极美的追求便成为文明存在的惟一寄托。—《朝闻道》刘慈欣'
@@ -30,6 +30,7 @@ quotes[10] = '人生并不公平，幸好还有爱在。—？'
 quotes[11] = '我脆弱的像是沾了水的纸，但是我不必惧怕什么。—？'
 quotes[12] = '从来如此，便对么？—《狂人日记》鲁迅'
 quotes[13] = 'O ever youthful, O ever weeping.—Jack Kerouac.'
+quotes[14] = '天真永不消逝，浪漫至死不渝。—墨香铜臭'
 var quote = quotes[rand1]
 //-->
 </script>
@@ -119,7 +120,7 @@ document.write(quote)
   
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.121 | 2022/05/01 10:59  
+###### 淘气喵 个人网站 v0.1.122 | 2022/05/01 14:28  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

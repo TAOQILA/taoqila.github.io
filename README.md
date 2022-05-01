@@ -2,6 +2,12 @@
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/165919450-66388bff-fb68-4777-b44b-8e16d54c06cd.png)
 
+### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
+
+<p id="1"></p>
+
+---
+
 <html>
 <body>
 <script language="JavaScript">
@@ -36,13 +42,6 @@ document.write(quote)
 </script></body>
 </html>
 
-  
----
-### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
-
-<p id="1"></p>
-
----
 # 个人简介
 - 昵称：淘气喵 TAOQILA
 - 生日：2006.7.7 (巨蟹座,15岁)

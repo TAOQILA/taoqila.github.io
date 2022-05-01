@@ -40,6 +40,7 @@ document.write(quote)
 // -->
 </script></body>
 </html>
+<a href="javascript:location.reload()"> Next</a>
 
 <p id="1"></p>
 

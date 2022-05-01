@@ -72,7 +72,7 @@ document.write(quote)
 # 动态
 此处只做粗略展示，具体请访问我的其他媒体！
 ### 04.26 创作了《刚洗完澡澡呐喵w》画作
-![动态](https://user-images.githubusercontent.com/64893569/166089475-9c77e6c6-44d7-48a9-b7af-145cdb3e44e4.jpg)
+![动态](https://user-images.githubusercontent.com/64893569/166130245-6c28e171-f585-418a-b2c4-d26212fc5947.jpg)
 #### [查看详情 →](https://www.pixiv.net/artworks/97892255)
 ---
 ### 01.30 创作了《Outlaw》音乐与MV
@@ -119,7 +119,7 @@ document.write(quote)
   
 ---
 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-淘气喵 个人网站 v0.1.119 | 2022/05/01 10:54  
+淘气喵 个人网站 v0.1.120 | 2022/05/01 10:56  
 淘气喵 © 版权所有
 
 <html lang="zh-cn">

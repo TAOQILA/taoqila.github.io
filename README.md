@@ -96,11 +96,11 @@ document.write(quote)
 
 ---
 # 作品
-### 目录 | [画作](#2) | [音乐会](#6) |
+### 目录 | [画展](#2) | [音乐会](#6) |
 
-## 画作
+## 画展
 此处只做粗略展示，具体请访问我的[pixiv](#1)或[画集包](#3)！
-![Paintsp1](https://user-images.githubusercontent.com/64893569/165918758-81193dc8-e588-4d18-8345-b16ce2a2cb1e.png)
+![Paintsp1](https://user-images.githubusercontent.com/64893569/166130181-b33b149c-0fd6-4b41-8e34-f323f8f2933e.png)
 
 ###### [↑ 回到顶部](#0)
 
@@ -119,7 +119,7 @@ document.write(quote)
   
 ---
 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-淘气喵 个人网站 v0.1.117 | 2022/05/01 10:42  
+淘气喵 个人网站 v0.1.119 | 2022/05/01 10:54  
 淘气喵 © 版权所有
 
 <html lang="zh-cn">

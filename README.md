@@ -2,7 +2,7 @@
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/166130128-c592c1e0-61fe-4c6d-99de-053ccb7c6310.png)
 
-### 目录 | [个人简介](#1) | [约稿](#7) | [动态](#4) | [下载](#3) | [作品](#2) |
+### 目录 | [个人简介](#1) | [约稿](#7) | [下载](#3) | [作品](#2) | [动态](#4) |
 
 ---
 
@@ -73,25 +73,6 @@ document.write(quote)
 
 ###### [↑ 回到顶部](#0)
 
-<p id="4"></p>
-
----
-# 动态
-此处只做粗略展示，具体请访问我的其他媒体！
-### 05.02 创作了专属情侣头像
-![动态2](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
-#### [查看详情 →](https://www.pixiv.net/artworks/98056414)
----
-### 04.26 创作了《刚洗完澡澡呐喵w》画作
-![动态](https://user-images.githubusercontent.com/64893569/166130245-6c28e171-f585-418a-b2c4-d26212fc5947.jpg)
-#### [查看详情 →](https://www.pixiv.net/artworks/97892255)
----
-### 01.30 创作了《Outlaw》音乐与MV
-<iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-#### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
-
-###### [↑ 回到顶部](#0)
-
 <p id="3"></p>
 
 ---
@@ -107,6 +88,7 @@ document.write(quote)
 
 ---
 # 作品
+##### [无偿打赏 →](https://user-images.githubusercontent.com/64893569/166212882-5ce79723-d63d-4e7f-be81-98acbf8b61e0.png)  
 ### 目录 | [画展](#2) | [音乐会](#6) |
 
 ## 画展
@@ -127,11 +109,30 @@ document.write(quote)
 4. [Outlaw  - 淘气喵](https://www.bilibili.com/audio/au2797901) [[MV]](https://www.bilibili.com/video/BV1RR4y1T77G)
 
 ###### [↑ 回到顶部](#0)  
-  
+
+<p id="4"></p>
+
 ---
-[无偿打赏 →](https://user-images.githubusercontent.com/64893569/166212882-5ce79723-d63d-4e7f-be81-98acbf8b61e0.png)  
+# 动态
+此处只做粗略展示，具体请访问我的其他媒体！
+### 05.02 创作了专属情侣头像
+![动态2](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
+#### [查看详情 →](https://www.pixiv.net/artworks/98056414)
+---
+### 04.26 创作了《刚洗完澡澡呐喵w》画作
+![动态](https://user-images.githubusercontent.com/64893569/166130245-6c28e171-f585-418a-b2c4-d26212fc5947.jpg)
+#### [查看详情 →](https://www.pixiv.net/artworks/97892255)
+---
+### 01.30 创作了《Outlaw》音乐与MV
+<iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+#### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
+
+###### [↑ 回到顶部](#0)  
+  
+   
+---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.135 | 2022/05/02 17:25  
+###### 淘气喵 个人网站 v0.1.135 | 2022/05/02 22:50  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

@@ -78,6 +78,10 @@ document.write(quote)
 ---
 # 动态
 此处只做粗略展示，具体请访问我的其他媒体！
+### 05.02 创作了专属情侣头像
+![动态2](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
+#### [查看详情 →](https://www.pixiv.net/artworks/98056414)
+---
 ### 04.26 创作了《刚洗完澡澡呐喵w》画作
 ![动态](https://user-images.githubusercontent.com/64893569/166130245-6c28e171-f585-418a-b2c4-d26212fc5947.jpg)
 #### [查看详情 →](https://www.pixiv.net/artworks/97892255)

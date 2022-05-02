@@ -129,6 +129,58 @@ document.write(quote)
 ###### 淘气喵 个人网站 v0.1.131 | 2022/05/01 18:51  
 ###### 淘气喵 © 版权所有
 
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    .shell{
+        height: 100vh;
+        overflow-x: hidden;
+        perspective: 3px;
+    }
+    .shell div{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-style: 30px;
+        letter-spacing: 2px;
+    }
+    .image{
+        transform: translateZ(-1px) scale(1.6);
+        background-size: cover;
+        height: 100vh;
+        z-index: -1;
+    }
+    .text{
+        height: 50vh;
+        background-color: #fff;
+    }
+    .text h1{
+        color: #000;
+    }
+    .heading{
+        z-index: -1;
+        transform: translateY(-30vh) translateZ(1px);
+        color: #fff;
+        font-size: 30px;
+    }
+    h2{
+        font-size: 200%;
+        color:#1D1D1F;
+    }
+    h3{
+        font-size: 200%;
+        color:#24246d;
+    }
+    h4{
+        font-size: 300%;
+        color:#ffffff;
+    }
+    
+</style>
+
 <html lang="zh-cn">
 	<head>
 		<title>鼠标特效</title>

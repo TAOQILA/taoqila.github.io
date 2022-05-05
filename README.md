@@ -14,7 +14,7 @@ function selectFrom(startNumber, endNumber) {
     var choice = endNumber - startNumber + 1;
     return Math.floor(Math.random() * choice + startNumber)
 }
-var rand1 = selectFrom(0,19);
+var rand1 = selectFrom(0,21);
 quotes = new Array
 quotes[0] = '人的心灵不能简单地被物所填充，更不能全心沉湎于物的世界而无法自拔。—《乡愁的文化表达》邹广文'
 quotes[1] = '当生存问题完全解决，当爱情因个体的异化和融和而消失，当艺术因过分的精致和晦涩而最终死亡，对宇宙终极美的追求便成为文明存在的惟一寄托。—《朝闻道》刘慈欣'
@@ -35,7 +35,9 @@ quotes[15] = '分清傻人与坏人。—淘气喵'
 quotes[16] = '众生平等。—《妙法莲华经文句》智顗'
 quotes[17] = '存在即合理。—《法哲学原理》黑格尔'
 quotes[18] = '我思故我在。—笛卡尔'
-quotes[19] = '他人即地狱。—萨特'
+quotes[19] = '不知者不怪。—《论语》孔子'
+quotes[20] = '你所热爱的，就是你的生活。—陈睿'
+quotes[21] = '无论什么情况，尝试打破他人的幸福，就是混蛋。—淘气喵'
 var quote = quotes[rand1]
 //-->
 </script>
@@ -132,7 +134,7 @@ document.write(quote)
    
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.140 | 2022/05/02 23:08  
+###### 淘气喵 个人网站 v0.1.142 | 2022/05/05 22:09  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">
@@ -148,7 +150,7 @@ document.write(quote)
 			var a_idx = 0;
 			jQuery(document).ready(function($) {
 				addTips = function(e) {
-					var a = new Array("喵喵", "呜呜", "嗷呜", "喵呜", "ww", "quq", "awa", "QAQ", "啦啦", "LOVE", "丫丫", "sss");
+					var a = new Array("喵喵", "呜呜", "嗷呜", "喵呜", "ww", "quq", "awa", "QAQ", "啦啦", "LOVE", "丫丫", "uwu");
 					var i = $("<span />").text(a[a_idx]);
 					a_idx = (a_idx + 1) % a.length;
 					var x = e.pageX,

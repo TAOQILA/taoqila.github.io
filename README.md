@@ -61,6 +61,7 @@ document.write(quote)
 - QQ群：[921289019](https://jq.qq.com/?_wv=1027&k=0yhFgJKO)
 - 邮箱：taoqila@qq.com
 - 哔哩哔哩：[淘气喵w](https://space.bilibili.com/353586902)
+- YouTube：[淘气喵w](https://www.youtube.com/channel/UCW6YemL68UriH3UQhiLBIeQ)
 - pixiv：[淘气喵w](https://www.pixiv.net/users/59091519)
 
 ###### [↑ 回到顶部](#0)
@@ -117,6 +118,10 @@ document.write(quote)
 ---
 # 动态
 此处只做粗略展示，具体请访问我的其他媒体！
+### 05.07 创作了《一个严肃的视频。》
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SrBp4tvx7-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### [查看详情 →](https://www.youtube.com/watch?v=SrBp4tvx7-0)
+---
 ### 05.02 创作了专属情侣头像
 ![动态2](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
 #### [查看详情 →](https://www.pixiv.net/artworks/98056414)
@@ -134,7 +139,7 @@ document.write(quote)
    
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.142 | 2022/05/05 22:09  
+###### 淘气喵 个人网站 v0.1.143 | 2022/05/07 17:40  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

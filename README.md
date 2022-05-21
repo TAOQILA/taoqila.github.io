@@ -14,7 +14,7 @@ function selectFrom(startNumber, endNumber) {
     var choice = endNumber - startNumber + 1;
     return Math.floor(Math.random() * choice + startNumber)
 }
-var rand1 = selectFrom(0,21);
+var rand1 = selectFrom(0,36);
 quotes = new Array
 quotes[0] = '人的心灵不能简单地被物所填充，更不能全心沉湎于物的世界而无法自拔。—《乡愁的文化表达》邹广文'
 quotes[1] = '当生存问题完全解决，当爱情因个体的异化和融和而消失，当艺术因过分的精致和晦涩而最终死亡，对宇宙终极美的追求便成为文明存在的惟一寄托。—《朝闻道》刘慈欣'
@@ -38,6 +38,21 @@ quotes[18] = '我思故我在。—笛卡尔'
 quotes[19] = '不知者不怪。—《论语》孔子'
 quotes[20] = '你所热爱的，就是你的生活。—陈睿'
 quotes[21] = '无论什么情况，尝试打破他人的幸福，就是混蛋。—淘气喵'
+quotes[22] = '婚姻是爱情的坟墓。—？'
+quotes[23] = '知足常乐。—《老子》神塚淑子'
+quotes[24] = '及时行乐。—《新刊大宋宣和遗事》无名氏'
+quotes[25] = '没有任何人有资格让你活成他想看的样子。—我'
+quotes[26] = '不要用违法制裁违法。—我'
+quotes[27] = 'It's better to speak, or to die?。—《请以你的名字呼唤我》安德烈·艾席蒙'
+quotes[28] = '请定义\“正确的三观\”。—我'
+quotes[29] = '请以你的名字呼唤我，我也用我的名字呼唤你。—《请以你的名字呼唤我》安德烈·艾席蒙'
+quotes[30] = '不知其事，不评其为。—我'
+quotes[31] = '爱是明智的，恨是愚蠢的。—罗素'
+quotes[32] = '只是单单去审视，什么才是事实。—罗素'
+quotes[33] = '最重要的是，你必须对自己忠实。—《哈姆雷特》莎士比亚'
+quotes[34] = '用理性处理理性，用感性处理感性。理性的东西，必须说出其理性的道理，而不是感性的，若说不出，就请抛弃。—我'
+quotes[35] = '弱小和无知从来都不是生存的障碍，傲慢才是。—《三体》刘慈欣'
+quotes[36] = 'To be, or not to be, that is a question.—《哈姆雷特》莎士比亚'
 var quote = quotes[rand1]
 //-->
 </script>
@@ -53,6 +68,7 @@ document.write(quote)
 
 ---
 # 个人简介
+### 信息
 - 昵称：淘气喵 TAOQILA
 - 生日：2006.7.7 (巨蟹座,15岁)
 - 来自：中国-黑龙江省-哈尔滨市
@@ -60,9 +76,11 @@ document.write(quote)
 - 微信：taotaowjh (仅办公用)
 - QQ群：[921289019](https://jq.qq.com/?_wv=1027&k=0yhFgJKO)
 - 邮箱：taoqila@qq.com
+### 媒体
 - 哔哩哔哩：[淘气喵w](https://space.bilibili.com/353586902)
 - YouTube：[淘气喵w](https://www.youtube.com/channel/UCW6YemL68UriH3UQhiLBIeQ)
 - pixiv：[淘气喵w](https://www.pixiv.net/users/59091519)
+- 知乎：[淘气不是受QAQ](https://www.zhihu.com/people/taoqila)
 
 ###### [↑ 回到顶部](#0)
 
@@ -96,7 +114,17 @@ document.write(quote)
 ##### [无偿打赏 →](https://user-images.githubusercontent.com/64893569/166212882-5ce79723-d63d-4e7f-be81-98acbf8b61e0.png)  
 ## 画展
 #### 此处只做粗略展示，具体请访问我的[pixiv](#1)或[画集包](#3)！
-![Paintsp1](https://user-images.githubusercontent.com/64893569/166130181-b33b149c-0fd6-4b41-8e34-f323f8f2933e.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646244-0a6d6770-2d87-4f8f-b063-06d607ec6cd7.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646246-7948621f-259e-401d-8f99-1d9d3c880729.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646247-900a0383-1e04-4415-bf5e-c5516bedc0a9.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646248-b4825ad8-a6ff-43b0-b567-ca587ad23dc9.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646249-29023be9-e79b-4f2b-98cb-5dc999cfa455.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646252-1bd476af-43f9-45f1-a0e7-e870cac1ec4b.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646254-75c68d6c-4ead-42a8-b0c6-1bb16085f646.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646256-b90ff8f5-2bcb-44c3-bbad-a6e095795daa.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646257-5583ee01-6513-48f8-b1cc-b10c4464f65d.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646258-fdccf7a0-7dd5-4095-9008-5c7d2f7c7adc.png)
+![画展](https://user-images.githubusercontent.com/64893569/169646260-443a4be1-0ea7-487b-ac7d-aa150f5505b7.png)
 
 ###### [↑ 回到顶部](#0)
 
@@ -118,19 +146,19 @@ document.write(quote)
 ---
 # 动态
 此处只做粗略展示，具体请访问我的其他媒体！
-### 05.07 创作了《一个严肃的视频。》
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SrBp4tvx7-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#### [查看详情 →](https://www.youtube.com/watch?v=SrBp4tvx7-0)
+### 05.21 创作了《Dream Free》
+![动态](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
+#### [查看详情 →](https://www.pixiv.net/artworks/98499401)
 ---
-### 05.02 创作了专属情侣头像
-![动态2](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
+### 05.02 创作了"淘气&白白专属情侣头像"
+![动态](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
 #### [查看详情 →](https://www.pixiv.net/artworks/98056414)
 ---
 ### 04.26 创作了《刚洗完澡澡呐喵w》画作
 ![动态](https://user-images.githubusercontent.com/64893569/166130245-6c28e171-f585-418a-b2c4-d26212fc5947.jpg)
 #### [查看详情 →](https://www.pixiv.net/artworks/97892255)
 ---
-### 01.30 创作了《Outlaw》音乐与MV
+### 01.30 创作了《Outlaw》音乐及其MV
 <iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
 #### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
 
@@ -139,7 +167,7 @@ document.write(quote)
    
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.143 | 2022/05/07 17:40  
+###### 淘气喵 个人网站 v0.1.146 | 2022/05/21 18:06  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

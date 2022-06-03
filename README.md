@@ -2,7 +2,7 @@
 
 ![HeadLogo](https://user-images.githubusercontent.com/64893569/169646913-0161a1da-d75d-4c6b-8ef2-0909003ec118.png)
 
-### 目录 | [个人简介](#1) | [约稿](#7) | [下载](#3) | [作品](#2) | [动态](#4) |
+### 目录 | [个人简介](#1) | [约稿](#7) | [下载](#3) | [作品](#2) |
 
 ---
 
@@ -14,7 +14,7 @@ function selectFrom(startNumber, endNumber) {
     var choice = endNumber - startNumber + 1;
     return Math.floor(Math.random() * choice + startNumber)
 }
-var rand1 = selectFrom(0,36);
+var rand1 = selectFrom(0,44);
 quotes = new Array
 quotes[0] = '人的心灵不能简单地被物所填充，更不能全心沉湎于物的世界而无法自拔。—《乡愁的文化表达》邹广文'
 quotes[1] = '当生存问题完全解决，当爱情因个体的异化和融和而消失，当艺术因过分的精致和晦涩而最终死亡，对宇宙终极美的追求便成为文明存在的惟一寄托。—《朝闻道》刘慈欣'
@@ -41,18 +41,26 @@ quotes[21] = '无论什么情况，尝试打破他人的幸福，就是混蛋。
 quotes[22] = '婚姻是爱情的坟墓。—？'
 quotes[23] = '知足常乐。—《老子》神塚淑子'
 quotes[24] = '及时行乐。—《新刊大宋宣和遗事》无名氏'
-quotes[25] = '没有任何人有资格让你活成他想看的样子。—我'
-quotes[26] = '不要用违法制裁违法。—我'
+quotes[25] = '没有任何人有资格让你活成他想看的样子。—淘气喵'
+quotes[26] = '不要用违法制裁违法。—淘气喵'
 quotes[27] = 'It's better to speak, or to die?。—《请以你的名字呼唤我》安德烈·艾席蒙'
-quotes[28] = '请定义\“正确的三观\”。—我'
+quotes[28] = '请定义\“正确的三观\”。—淘气喵'
 quotes[29] = '请以你的名字呼唤我，我也用我的名字呼唤你。—《请以你的名字呼唤我》安德烈·艾席蒙'
-quotes[30] = '不知其事，不评其为。—我'
+quotes[30] = '不知其事，不评其为。—淘气喵'
 quotes[31] = '爱是明智的，恨是愚蠢的。—罗素'
 quotes[32] = '只是单单去审视，什么才是事实。—罗素'
 quotes[33] = '最重要的是，你必须对自己忠实。—《哈姆雷特》莎士比亚'
-quotes[34] = '用理性处理理性，用感性处理感性。理性的东西，必须说出其理性的道理，而不是感性的，若说不出，就请抛弃。—我'
+quotes[34] = '用理性处理理性，用感性处理感性。理性的东西，必须说出其理性的道理，而不是感性的，若说不出，就请抛弃。—淘气喵'
 quotes[35] = '弱小和无知从来都不是生存的障碍，傲慢才是。—《三体》刘慈欣'
 quotes[36] = 'To be, or not to be, that is a question.—《哈姆雷特》莎士比亚'
+quotes[37] = '未经他人苦，莫劝他人善。—《人世间》庄子'
+quotes[38] = '根本就没什么规则。—《瞬息全宇宙》丹·关'
+quotes[39] = '你不喜欢，不接受，都不重要，因为这个就是我。—《瞬息全宇宙》丹·关'
+quotes[40] = '我总是看到事情好的一面，不是因为我天真，而是必要与需要，这也就是我的生存之道。—《瞬息全宇宙》丹·关'
+quotes[41] = '能解释为愚蠢的，就不要解释为恶意。—汉隆'
+quotes[42] = '勿以恶小而为之，勿以善小而不为。—《三国志·蜀志传》陈寿'
+quotes[43] = '永志不忘纪念，往事不如烟。—《玫瑰少年》五月天&蔡依林'
+quotes[44] = '男也好，女也好，中意就好。谁说白婚纱只能配黑西服，白婚纱也可以配黑婚纱，白西服也可以配黑西服。女孩子也可以单膝下跪，男孩子也可以被求婚，连神明都羡慕的爱情，你们却在审视他们的性别。—张国荣'
 var quote = quotes[rand1]
 //-->
 </script>
@@ -144,33 +152,9 @@ document.write(quote)
 
 ###### [↑ 回到顶部](#0)  
 
-<p id="4"></p>
-
----
-# 动态
-此处只做粗略展示，具体请访问我的其他媒体！
-### 05.21 创作了《Dream Free》
-![动态](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
-#### [查看详情 →](https://www.pixiv.net/artworks/98499401)
----
-### 05.02 创作了"淘气&白白专属情侣头像"
-![动态](https://user-images.githubusercontent.com/64893569/166251437-a8169307-4ccf-4ed7-ac0b-5b8c0b6a0f5d.png)
-#### [查看详情 →](https://www.pixiv.net/artworks/98056414)
----
-### 04.26 创作了《刚洗完澡澡呐喵w》画作
-![动态](https://user-images.githubusercontent.com/64893569/166130245-6c28e171-f585-418a-b2c4-d26212fc5947.jpg)
-#### [查看详情 →](https://www.pixiv.net/artworks/97892255)
----
-### 01.30 创作了《Outlaw》音乐及其MV
-<iframe src="//player.bilibili.com/player.html?aid=338626553&bvid=BV1RR4y1T77G&cid=498035578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-#### [查看详情 →](https://www.bilibili.com/video/BV1RR4y1T77G)
-
-###### [↑ 回到顶部](#0)  
-  
-   
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.148 | 2022/05/21 18:17  
+###### 淘气喵 个人网站 v0.1.148 | 2022/06/03 10:11  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

@@ -124,8 +124,8 @@ document.write(quote)
 ### 目录 | [画展](#2) | [音乐会](#6) |
 ##### [无偿打赏 →](https://user-images.githubusercontent.com/64893569/166212882-5ce79723-d63d-4e7f-be81-98acbf8b61e0.png)  
 ## 画展
-#### 此处只做粗略展示，具体请访问我的[pixiv](#1)或[画集包](#3)！
-![画展](https://user-images.githubusercontent.com/64893569/169646244-0a6d6770-2d87-4f8f-b063-06d607ec6cd7.png)
+![画展](https://user-images.githubusercontent.com/64893569/171773929-65f08d0e-0510-4389-8615-3e64af1e0d5b.png)
+![画展](https://user-images.githubusercontent.com/64893569/171773950-1a261ecb-7818-4def-919e-6a711ced389d.png)
 ![画展](https://user-images.githubusercontent.com/64893569/169646246-7948621f-259e-401d-8f99-1d9d3c880729.png)
 ![画展](https://user-images.githubusercontent.com/64893569/169646247-900a0383-1e04-4415-bf5e-c5516bedc0a9.png)
 ![画展](https://user-images.githubusercontent.com/64893569/169646248-b4825ad8-a6ff-43b0-b567-ca587ad23dc9.png)
@@ -154,7 +154,7 @@ document.write(quote)
 
 ---
 ###### 如遇到问题或有建议欢迎向[淘气喵](#1)反馈  
-###### 淘气喵 个人网站 v0.1.148 | 2022/06/03 10:11  
+###### 淘气喵 个人网站 v0.1.150 | 2022/06/03 10:19  
 ###### 淘气喵 © 版权所有
 
 <html lang="zh-cn">

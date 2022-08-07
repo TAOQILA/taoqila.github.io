@@ -1,6 +1,6 @@
 ![](https://wx2.sinaimg.cn/mw2000/007HyNyely1h4ymnijca5j30id06tq4m.jpg)
-### 欢迎您访问淘气喵的画展！[我的其他信息](https://muselink.cc/taoqila)
-此处仅呈现低画质版本 高画质版本可转向 [百度网盘](https://pan.baidu.com/s/1aEz9S4SPS2dgvGnrKheVgg?pwd=love) 或 [pixiv](https://www.pixiv.net/users/59091519) 查看
+### 欢迎您访问淘气喵的画展！[其他信息](https://muselink.cc/taoqila)
+高画质版本可转向 [百度网盘](https://pan.baidu.com/s/1aEz9S4SPS2dgvGnrKheVgg?pwd=love) 或 [pixiv](https://www.pixiv.net/users/59091519) 查看
 ![](https://wx2.sinaimg.cn/mw2000/007HyNyely1h4ymninv7mj30id06tjre.jpg)
 ![](https://wx3.sinaimg.cn/mw2000/007HyNyely1h4ymniswrdj30id06ttb5.jpg)
 ![](https://wx3.sinaimg.cn/mw2000/007HyNyely1h4ymniybelj30id06twhn.jpg)

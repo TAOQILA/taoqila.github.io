@@ -3,6 +3,7 @@
 自2022.8.13起，为方便国内访问， 淘气喵个人网站 已从Github Pages移至Gitte pages。  
 如为您造成不便，感谢您的谅解。本站仍然会继续更新，但会很久更新一次，您可以在页面底端查看最近更新日期。
 ### [点击前往新的网址](https://taoqila.gitee.io/)
+##### 警告：我们将不会将再保证本Github Pages的内容正确。
 ---
 # I have something to tell you
 As of August 13, 2019, Naughty Meow's personal website has been moved from Github Pages to Gitte Pages for easier access in China.  
@@ -10,6 +11,7 @@ Thank you for your understanding if any inconvenience is caused to you.
 This site will continue to be updated, but it will be updated once in a while.
 You can check the last update date at the bottom of the page.  
 ### [CLICK TO THE NEW URL](https://taoqila.gitee.io/)
+##### Warning: We will no longer vouch for the correct content of this Github Pages.
 ---
 <!DOCTYPE html>
 <html lang="en">
